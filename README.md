@@ -1,3 +1,3 @@
 # Premier Pendu
 
-Jeu du pendu, codé en Python.
+Ce jeu du pendu est codé en Python.
