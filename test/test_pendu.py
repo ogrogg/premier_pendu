@@ -12,4 +12,3 @@ def test_pendu_fail():
     res = pendu.play(word="ENFANT", nb_tries=1, letters=["T", "P"])
 
     assert res == False, "user whould have fail this game"
-
